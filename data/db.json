@@ -1,0 +1,375 @@
+{
+  "adminUsers": [
+    {
+      "id": "admin-1",
+      "email": "afnaan",
+      "username": "AFNAAN CARES",
+      "name": "AFNAAN CARES Administrator",
+      "passwordHash": "df5e671615987a87c947f96d7132bc8695bf0a9b6aed8860e738dfcea793583d150a4af6d41d1611d99e817f4bec5551813d11acff0356336ad48f32968d69ab",
+      "salt": "f5b83986c0e222bc2954bdae91f0af8e",
+      "role": "super_admin",
+      "createdAt": "2026-10-23T20:48:32.893Z"
+    }
+  ],
+  "careRequests": [
+    {
+      "id": "req-sample-1",
+      "refCode": "AFN-REQ-2026-1001",
+      "fullName": "Babatunde Williams",
+      "phone": "08023456789",
+      "email": "babatunde.w@example.com",
+      "contactMethod": "Phone Call",
+      "careType": "Elderly Care",
+      "careForWhom": "My Elderly Mother",
+      "ageGroup": "80+ years",
+      "preferredGender": "Female",
+      "preferredLanguage": "English & Yoruba",
+      "state": "Lagos",
+      "cityLga": "Ikeja / Opebi",
+      "startDate": "2026-11-01",
+      "duration": "Long term (3+ months)",
+      "preferredDays": "Monday to Saturday",
+      "preferredTime": "Morning to Evening (8am - 5pm)",
+      "careScheduleType": "Visiting Daily Support",
+      "description": "Mother needs gentle assistance with morning routine, meal reminders, medication schedule, and mobility encouragement.",
+      "status": "Contacted",
+      "internalNotes": "Spoke with Mr. Williams on WhatsApp. Scheduled initial home assessment for next Monday.",
+      "assignedStaff": "Nurse Amina",
+      "createdAt": "2026-10-20T09:30:00.000Z",
+      "updatedAt": "2026-10-21T11:00:00.000Z"
+    }
+  ],
+  "caregiverApplications": [
+    {
+      "id": "app-sample-1",
+      "refCode": "AFN-APP-2026-2001",
+      "fullName": "Chidinma Grace Okon",
+      "phone": "08134567890",
+      "email": "chidinma.g.okon@example.com",
+      "location": "Agege, Lagos",
+      "preferredRole": "Caregiver",
+      "experience": "4 years of professional home care and elderly companion care",
+      "qualifications": "Certified Health Care Assistant (CHCA), CPR & First Aid Certified",
+      "availability": "Immediate / Full Time",
+      "employmentType": "Full-time Live-in or Visiting",
+      "personalStatement": "I have a deep passion for treating elderly patients like my own family, ensuring they feel loved, secure, and respected at all times.",
+      "cvFileName": "",
+      "cvOriginalName": "Chidinma_Okon_CV_2026.pdf",
+      "status": "Under Review",
+      "internalNotes": "Verified references from previous family in Surulere. Impressive care track record.",
+      "createdAt": "2026-10-18T14:15:00.000Z",
+      "updatedAt": "2026-10-19T10:00:00.000Z"
+    }
+  ],
+  "contactMessages": [
+    {
+      "id": "msg-sample-1",
+      "fullName": "Olumide Fashola",
+      "email": "olumide.fash@example.com",
+      "phone": "08098765432",
+      "subject": "Enquiry About Post-Surgery Care for My Father",
+      "message": "Hello AFNAAN team, my father is undergoing hip surgery next week and will need 3 weeks of visiting nursing support in Agege. Could you please let me know your availability?",
+      "isRead": false,
+      "internalNotes": "",
+      "createdAt": "2026-10-22T16:40:00.000Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Home Care Assistance",
+      "slug": "home-care-assistance",
+      "category": "Daily Living",
+      "summary": "Support with everyday activities, routines, and comfortable living in the familiar surroundings of home.",
+      "fullDescription": "Our home care assistance is designed to support individuals who value living in their own homes but need a dependable helping hand with day-to-day routines. We assist with meal preparation, mobility, household reminders, light housekeeping, and personal comfort while respecting client independence.",
+      "whoMayBenefit": "Individuals needing extra support at home, seniors wishing to age in place, and individuals recuperating after an illness.",
+      "supportExamples": [
+        "Nutritious meal preparation and hydration monitoring",
+        "Assistance with morning and evening routines",
+        "Light housekeeping, tidy living spaces, and laundry support",
+        "Mobility assistance and safe movement within the house",
+        "Accompaniment to hospital appointments and walks",
+        "Friendly companionship and cognitive engagement"
+      ],
+      "imageUrl": "https://i.ibb.co/0pGcWvZN/Gemini-Generated-Image-uczqozuczqozuczq.jpg",
+      "isPublished": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "srv-2",
+      "title": "Elderly Care",
+      "slug": "elderly-care",
+      "category": "Geriatric Support",
+      "summary": "Respectful, patient assistance that upholds comfort, dignity, safety, independence, and overall wellbeing.",
+      "fullDescription": "Aging brings changes in physical capability, emotional needs, and daily routines. Our elderly care team provides compassionate, attentive support tailored to older adults. We focus on fall prevention, medication adherence reminders, gentle exercise encouragement, dignity in personal grooming, and genuine companionship.",
+      "whoMayBenefit": "Elderly parents, seniors living alone or with family in Lagos, and older adults experiencing age-related physical limitations.",
+      "supportExamples": [
+        "Dignified assistance with bathing, dressing, and grooming",
+        "Fall risk management and supervised safe walking",
+        "Medication schedule prompts and vitals check coordination",
+        "Engaging conversations, reading, and mental wellness activities",
+        "Monitoring mood, sleep, appetite, and general health changes",
+        "Regular reassuring updates for family members"
+      ],
+      "imageUrl": "https://i.ibb.co/HDd37w0S/351da2ae-7b26-4e1b-a0cc-8d4c1ffe1a9c.jpg",
+      "isPublished": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "srv-3",
+      "title": "Personal Care Assistance",
+      "slug": "personal-care-assistance",
+      "category": "Personal Support",
+      "summary": "Help with suitable activities of daily living according to each client’s needs and agreed care plan.",
+      "fullDescription": "Personal care requires tact, respect, and skilled hands. Our trained caregivers assist with sensitive daily living routines with utmost privacy and dignity. We adhere strictly to agreed care plans, ensuring our clients feel clean, comfortable, and confident.",
+      "whoMayBenefit": "Individuals with limited mobility, bed-bound clients, or those recovering who require hands-on daily support.",
+      "supportExamples": [
+        "Bed bath, shower, and personal hygiene assistance",
+        "Oral care, skin care, and pressure-sore prevention positioning",
+        "Toileting and incontinence care managed respectfully",
+        "Assistance with feeding and dietary routines",
+        "Safe transfer assistance from bed to wheelchair or chair"
+      ],
+      "imageUrl": "https://i.ibb.co/zThxr8Hn/d72623f9-c5cb-47e9-8d04-5d9a7fac1191.jpg",
+      "isPublished": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "srv-4",
+      "title": "Nursing Support",
+      "slug": "nursing-support",
+      "category": "Clinical Care",
+      "summary": "Skilled nursing services delivered by appropriately qualified nursing professionals within their professional competence.",
+      "fullDescription": "When medical needs arise at home, our registered nursing personnel provide competent clinical support under medical direction. From wound care and vital signs monitoring to catheter care and post-operative monitoring, our nurses bring hospital-level dedication into your home.",
+      "whoMayBenefit": "Post-operative patients, clients with chronic clinical conditions, individuals requiring clinical monitoring or professional wound dressing.",
+      "supportExamples": [
+        "Comprehensive vital signs monitoring and clinical documentation",
+        "Aseptic wound dressing, surgical site care, and ulcer management",
+        "Prescribed medication administration and injection support",
+        "Catheter care, stoma support, and tube feeding monitoring",
+        "Direct liaison with attending physicians and hospital teams"
+      ],
+      "imageUrl": "https://i.ibb.co/0p2YvFVY/212a3369-d1b6-4c5d-8837-80eb62cc773c.jpg",
+      "isPublished": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "srv-5",
+      "title": "Recovery and Respite Support",
+      "slug": "recovery-respite-support",
+      "category": "Transitional Care",
+      "summary": "Support for individuals recovering at home and short-term relief for family members who provide primary care.",
+      "fullDescription": "Caring for a loved one is rewarding but can also be physically and emotionally demanding. Our respite care gives family caregivers time to rest, attend to work, or travel, knowing their loved one is in safe, professional hands. We also assist patients transitioning back home after hospital discharge.",
+      "whoMayBenefit": "Family caregivers needing short-term relief, and patients recovering from surgery, stroke, or acute medical illness.",
+      "supportExamples": [
+        "Flexible short-term, weekend, or multi-week respite coverage",
+        "Post-hospital discharge rehabilitation support and observation",
+        "Continuity of daily routines and medication schedules",
+        "Physical therapy exercise assistance following doctor instructions",
+        "Relief for primary family caregivers to prevent burnout"
+      ],
+      "imageUrl": "https://i.ibb.co/hRpKpVhM/Gemini-Generated-Image-dvwzijdvwzijdvwz.jpg",
+      "isPublished": true,
+      "sortOrder": 5
+    },
+    {
+      "id": "srv-6",
+      "title": "Family Care Support",
+      "slug": "family-care-support",
+      "category": "Coordination",
+      "summary": "Practical assistance, professional guidance, and clear communication to help families coordinate appropriate care.",
+      "fullDescription": "Navigating care options can feel overwhelming for families. AFNAAN acts as a dependable partner, conducting thorough needs assessments, setting up structured care routines, providing transparent daily updates, and adjusting care as needs evolve.",
+      "whoMayBenefit": "Families in Lagos or in the diaspora wanting reliable, supervised care arrangements for their loved ones.",
+      "supportExamples": [
+        "Initial home care assessment and individualised care planning",
+        "Direct WhatsApp and digital care progress updates to family",
+        "Caregiver supervision, attendance monitoring, and quality checks",
+        "Transparent communication regarding any changes in health status",
+        "Ongoing guidance on home safety and adaptive living equipment"
+      ],
+      "imageUrl": "https://i.ibb.co/RWMfDcL/4aa36139-2402-428d-a4e1-70be11835a38.jpg",
+      "isPublished": true,
+      "sortOrder": 6
+    }
+  ],
+  "galleryItems": [
+    {
+      "id": "gal-1",
+      "title": "Compassionate Home Care in Lagos",
+      "category": "Care in Action",
+      "mediaType": "image",
+      "mediaUrl": "https://i.ibb.co/0pGcWvZN/Gemini-Generated-Image-uczqozuczqozuczq.jpg",
+      "caption": "Our dedicated caregiver assisting with daily morning routine and gentle hydration.",
+      "description": "Delivering patient-centred care at home in Lagos, respecting dignity and fostering comfort for every individual.",
+      "date": "2026-09-15",
+      "location": "Ikeja, Lagos",
+      "isPublished": true,
+      "sortOrder": 1,
+      "createdAt": "2026-10-23T20:48:32.833Z"
+    },
+    {
+      "id": "gal-2",
+      "title": "Qualified Nursing Professionals",
+      "category": "Our Team",
+      "mediaType": "image",
+      "mediaUrl": "https://i.ibb.co/7Jg5BngR/Gemini-Generated-Image-3qtj7q3qtj7q3qtj.jpg",
+      "caption": "A member of our registered nursing staff prepared for home clinical visits.",
+      "description": "Our nurses bring rigorous medical training, clinical competence, and empathetic bedside manner to client homes.",
+      "date": "2026-08-20",
+      "location": "Agege, Lagos",
+      "isPublished": true,
+      "sortOrder": 2,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    },
+    {
+      "id": "gal-3",
+      "title": "Hands-on Caregiver Skills Training",
+      "category": "Training and Development",
+      "mediaType": "image",
+      "mediaUrl": "https://i.ibb.co/hRpKpVhM/Gemini-Generated-Image-dvwzijdvwzijdvwz.jpg",
+      "caption": "Continuous training sessions on safe patient transfer techniques and hygiene standards.",
+      "description": "We hold regular practical workshops covering patient transfer, emergency first response, communication, and dignified elder care.",
+      "date": "2026-07-12",
+      "location": "Orile Agege Training Centre",
+      "isPublished": true,
+      "sortOrder": 3,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    },
+    {
+      "id": "gal-4",
+      "title": "Elderly Companion & Mobility Support",
+      "category": "Care in Action",
+      "mediaType": "image",
+      "mediaUrl": "https://i.ibb.co/0pGcWvZN/Gemini-Generated-Image-uczqozuczqozuczq.jpg",
+      "caption": "Encouraging gentle mobility and active companionship for our senior clients.",
+      "description": "Consistent, patient companionship makes all the difference in emotional wellbeing and physical vitality.",
+      "date": "2026-06-30",
+      "location": "Surulere, Lagos",
+      "isPublished": true,
+      "sortOrder": 4,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    },
+    {
+      "id": "gal-5",
+      "title": "Community Health Awareness Day",
+      "category": "Community Engagement",
+      "mediaType": "image",
+      "mediaUrl": "https://i.ibb.co/7Jg5BngR/Gemini-Generated-Image-3qtj7q3qtj7q3qtj.jpg",
+      "caption": "AFNAAN team engaging residents on blood pressure checks and elder health wellness.",
+      "description": "Giving back to our community in Orile Agege through free blood pressure screening and home health education.",
+      "date": "2026-05-18",
+      "location": "Orile Agege, Lagos",
+      "isPublished": true,
+      "sortOrder": 5,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    },
+    {
+      "id": "gal-6",
+      "title": "Client Story: Restoring Peace of Mind",
+      "category": "Client Stories",
+      "mediaType": "image",
+      "mediaUrl": "https://i.ibb.co/hRpKpVhM/Gemini-Generated-Image-dvwzijdvwzijdvwz.jpg",
+      "caption": "The Adeleke family shares their experience having AFNAAN support their grandmother.",
+      "description": "A genuine reflection on how consistent, supervised caregiver support relieved family stress and preserved dignity.",
+      "date": "2026-04-10",
+      "location": "Lekki, Lagos",
+      "isPublished": true,
+      "sortOrder": 6,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "clientName": "Mrs. F. Adeleke",
+      "relationship": "Daughter of Senior Client",
+      "feedback": "AFNAAN CARES Nurses & Caregiver provided my 82-year-old mother with patient, warm, and highly respectful care in Lagos. Knowing she was in reliable hands gave our entire family deep peace of mind.",
+      "rating": 5,
+      "location": "Ikeja, Lagos",
+      "isPublished": true,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    },
+    {
+      "id": "t-2",
+      "clientName": "Dr. K. Balogun",
+      "relationship": "Family Care Coordinator",
+      "feedback": "Their punctuality, transparency, and clinical competence were outstanding. When my father required post-hospital recovery support, the nurse assigned by AFNAAN CARES was thorough and communicative.",
+      "rating": 5,
+      "location": "Victoria Island, Lagos",
+      "isPublished": true,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    },
+    {
+      "id": "t-3",
+      "clientName": "Alhaja S. Danladi",
+      "relationship": "Client Family",
+      "feedback": "The caregiver assigned to us treats my aunt with dignity and gentleness. The management team checks in regularly to make sure everything is running smoothly. Highly recommended.",
+      "rating": 5,
+      "location": "Orile Agege, Lagos",
+      "isPublished": true,
+      "createdAt": "2026-10-23T20:48:32.834Z"
+    }
+  ],
+  "websiteSettings": {
+    "businessName": "AFNAAN CARES Nurses & Caregiver",
+    "logoUrl": "https://i.ibb.co/rKN0fndw/20261023-174736.png",
+    "ceoName": "IMRAN MUTOLIB ADEIZA",
+    "ceoTitle": "Chief Executive Officer & Founder",
+    "ceoBio": "IMRAN MUTOLIB ADEIZA leads AFNAAN CARES Nurses & Caregiver with a focus on compassionate service, professionalism, and the importance of treating every individual with dignity and respect.\n\nHis vision for AFNAAN CARES is to build a care service that listens to families, values dedicated care professionals, and places people’s wellbeing at the centre of every care arrangement.\n\nThrough AFNAAN CARES, he aims to encourage a culture of empathy, responsibility, trust, and continuous improvement in caregiving.",
+    "ceoImageUrl": "https://i.ibb.co/xSSVrxWH/Whats-App-Image-2026-10-23-at-5-31-39-PM.jpg",
+    "contactEmail": "abooafnaan28@gmail.com",
+    "whatsappUrl": "https://wa.me/2349162285884",
+    "whatsappDisplay": "+234 916 228 5884",
+    "businessAddress": "No 7 Old Ota Road, Orile Bus Stop, Orile Agege, Lagos, Nigeria.",
+    "heroHeadline": "Compassionate Care.\nProfessional Support.\nPeace of Mind.",
+    "heroSubtext": "At AFNAAN CARES Nurses & Caregiver, we believe everyone deserves compassionate, respectful, and dependable care. We connect individuals and families with dedicated care professionals who put dignity, comfort, and wellbeing first.",
+    "trustStatement": "Care that puts people first.",
+    "seoTitle": "AFNAAN CARES Nurses & Caregiver | Professional Home Care & Nursing Support in Lagos",
+    "seoDescription": "Find compassionate, qualified caregivers, elderly care, and nursing support in Lagos, Nigeria. AFNAAN CARES Nurses & Caregiver delivers dignity and comfort right at home.",
+    "privacyPolicy": "At AFNAAN CARES Nurses & Caregiver, we are dedicated to protecting your privacy and treating all personal and health-related information with maximum discretion, security, and confidentiality.\n\n1. Information We Collect:\nWe collect contact information (names, email addresses, phone numbers), location details, care requirements, schedule preferences, and caregiver employment applications solely to coordinate care services or evaluate job applications. We do not collect unnecessary medical records or excessive personal data.\n\n2. How We Use Your Information:\nThe information you submit is used exclusively to:\n- Review and evaluate your home care or nursing support request.\n- Contact you to discuss care arrangements and suitability.\n- Process caregiver recruitment applications and verify credentials.\n- Respond to enquiries submitted through our contact form.\n\n3. Data Security & Confidentiality:\nAll care requests, caregiver records, and uploaded documents are stored in secure, access-controlled databases. We implement strict server-side safeguards, encryption, and authorization checks. We do not sell, rent, or disclose personal data to third parties.\n\n4. Your Rights:\nYou have the right to request access to your submitted data, request corrections, or request deletion of your information by contacting our privacy officer at abooafnaan28@gmail.com.\n\n5. Emergency Disclaimer:\nAFNAAN CARES Nurses & Caregiver provides home care and nursing support services. Our website and services do not replace acute hospital emergency services. For immediate life-threatening medical emergencies, please contact emergency medical providers immediately.",
+    "termsOfService": "Welcome to AFNAAN CARES Nurses & Caregiver. By accessing our website and engaging our services, you agree to the following terms and conditions:\n\n1. Services Scope:\nAFNAAN CARES Nurses & Caregiver provides non-clinical home care assistance, elderly care, personal care support, and clinical nursing support. Clinical nursing tasks are performed exclusively by appropriately qualified and authorised nursing professionals within applicable professional regulations.\n\n2. Service Arrangements:\nAll care arrangements are subject to initial assessment, caregiver availability, mutual agreement, and written care service agreements. Submitting an enquiry through this website initiates an enquiry and does not constitute a binding contract until formal confirmation.\n\n3. Accuracy of Information:\nUsers agree to provide accurate, truthful details regarding care requirements, client location, and caregiver credentials.\n\n4. Emergency Notice:\nOur care services are designed for planned home care, convalescent recovery, and assisted daily living. We are not an emergency dispatch service.\n\n5. Modifications:\nAFNAAN CARES Nurses & Caregiver reserves the right to modify website terms and service offerings in accordance with operational and regulatory requirements.",
+    "accessibilityStatement": "AFNAAN CARES Nurses & Caregiver is committed to ensuring our digital services are accessible to all people, including seniors and individuals with disabilities.\n\n- We follow WCAG 2.1 AA accessibility principles.\n- Headings, text, and interactive elements maintain high contrast against backgrounds.\n- All decorative and orbital animations respect the user's 'prefers-reduced-motion' system setting.\n- Forms include clear labels, keyboard navigable inputs, and accessible error notifications.\n- If you encounter any accessibility barrier on our website, please notify us at abooafnaan28@gmail.com so we can promptly address it."
+  },
+  "auditLogs": [
+    {
+      "id": "log-1793085883846-361",
+      "action": "Admin Login",
+      "details": "Admin afnaan logged in successfully",
+      "adminEmail": "afnaan",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-27T07:24:43.846Z"
+    },
+    {
+      "id": "log-1793085879536-689",
+      "action": "Admin Login",
+      "details": "Admin afnaan logged in successfully",
+      "adminEmail": "afnaan",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-27T07:24:39.536Z"
+    },
+    {
+      "id": "log-1792944465469-58",
+      "action": "Admin Login",
+      "details": "Admin afnaan logged in successfully",
+      "adminEmail": "afnaan",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-25T16:07:45.469Z"
+    },
+    {
+      "id": "log-1792792510611-601",
+      "action": "Admin Login",
+      "details": "Admin afnaan logged in successfully",
+      "adminEmail": "afnaan",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-23T21:55:10.612Z"
+    },
+    {
+      "id": "log-1",
+      "action": "System Initialized",
+      "details": "Initial database bootstrap completed with secure settings and authentic care service data.",
+      "adminEmail": "system",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-10-23T20:48:32.893Z"
+    }
+  ]
+}

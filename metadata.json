@@ -1,0 +1,6 @@
+{
+  "name": "AFNAAN CARES Nurses & Caregiver",
+  "description": "Professional nursing support, home-care, and caregiver service provider in Lagos, Nigeria. Compassionate care, professional support, peace of mind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

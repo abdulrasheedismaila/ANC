@@ -1,0 +1,1315 @@
+Below is a complete website design prompt for **AFNAAN Nurses & Caregiver**. You can copy and paste it into Google AI Studio to generate the website. It covers the design, all six pages, animations, booking forms, caregiver recruitment, CEO profile, portfolio management, and a secure admin dashboard.
+
+I've structured it to make the website look like a professional healthcare and home-care company, with authentic images of Black African nurses, caregivers, elderly people, and families.
+
+## Complete Website Development Prompt
+
+# PROJECT: AFNAAN NURSES & CAREGIVER WEBSITE
+
+Act as a senior full-stack web developer, UI/UX designer, healthcare brand strategist, and software security engineer.
+
+Design and develop a complete, modern, premium, responsive, and fully functional website for **AFNAAN Nurses & Caregiver**, a professional nursing support, home-care, and caregiver service provider based in Lagos, Nigeria.
+
+The website must look trustworthy, compassionate, elegant, lively, and professional. It must be suitable for families seeking qualified caregivers, elderly people needing assistance, patients requiring support at home, and individuals interested in becoming caregivers.
+
+This must be a real, functional website, not just a static visual mockup. Build all requested pages, navigation, forms, interactions, responsive layouts, and a secure administrative dashboard.
+
+Do not use generic placeholder text throughout the website. Write meaningful content relevant to nursing, home care, elderly care, caregiver recruitment, and healthcare support.
+
+==================================================
+
+1. BRAND IDENTITY AND WEBSITE INFORMATION
+   ==================================================
+
+Official business name:
+AFNAAN Nurses & Caregiver
+
+CEO:
+IMRAN MUTOLIB ADEIZA
+
+Business location:
+No 7 Old Ota Road, Orile Bus Stop, Orile Agege, Lagos, Nigeria.
+
+Official email:
+[abooafnaan28@gmail.com](mailto:abooafnaan28@gmail.com)
+
+WhatsApp contact:
+[https://wa.me/09162285884](https://wa.me/09162285884)
+
+Use the provided business logo prominently throughout the website.
+
+LOGO IMAGE:
+[https://i.ibb.co/rKN0fndw/20261023-174736.png](https://i.ibb.co/rKN0fndw/20261023-174736.png)
+
+Use this image URL directly as the logo source. Do not recreate the logo using plain text if the image loads successfully.
+
+The logo should be clearly visible in the header, footer, and administrative dashboard. Preserve its original proportions and avoid stretching, cropping, or obscuring it.
+
+If the logo image fails to load, display a clean text-based fallback reading AFNAAN Nurses & Caregiver.
+
+BRAND COLOURS:
+
+Primary colour: Deep teal (#075765)
+Secondary colour: Rich turquoise (#10A8B7)
+Accent colour: Soft champagne gold (#C9A45C)
+Background: Clean white (#FFFFFF)
+Alternative background: Very light blue-grey (#F3F8F9)
+Text: Dark charcoal (#202A30)
+
+Use the colours consistently to create a premium healthcare identity.
+
+Typography:
+
+* Use a modern, elegant heading font such as Manrope or Plus Jakarta Sans.
+* Use Inter or a similar clean sans-serif font for body text.
+* Make headings bold and readable.
+* Maintain excellent contrast and generous spacing.
+* Avoid excessive text, unnecessary icons, and cluttered layouts.
+
+The overall design should communicate compassion, professionalism, safety, dignity, and reliability.
+
+==================================================
+2. DESIGN STYLE AND USER EXPERIENCE
+===================================
+
+Create a premium healthcare website inspired by modern international home-care brands.
+
+The website must be:
+
+* Fully responsive on mobile phones, tablets, laptops, and desktops.
+* Fast-loading and optimised for performance.
+* Easy to navigate.
+* Accessible to users with different abilities.
+* Optimised for search engines.
+* Designed with subtle animations and smooth transitions.
+* Suitable for a Nigerian audience.
+* Professional enough to build trust with families, hospitals, organisations, and prospective caregivers.
+
+Use generous white space, rounded cards, elegant shadows, carefully arranged photographs, soft gradients, and consistent spacing.
+
+Avoid making the website look like a hospital management system. It should feel welcoming, human, compassionate, and focused on care delivered by people.
+
+Use authentic-looking photographs of Black African nurses, professional caregivers, elderly clients, people recovering at home, and African families.
+
+IMPORTANT IMAGE DIRECTION:
+
+Use high-quality, realistic photographs featuring Black people throughout the website.
+
+Image examples include:
+
+* A professional Black female nurse wearing clean medical scrubs.
+* A Black male caregiver assisting an elderly man.
+* A compassionate Black female caregiver supporting an elderly woman.
+* A nurse speaking with a family in a comfortable home.
+* A caregiver helping a client with everyday activities.
+* Professional caregivers working together.
+* A Black healthcare professional speaking with the CEO or a family.
+
+Avoid using only white Western models or generic hospital stock photography.
+
+Use photographs respectfully. Do not depict vulnerable clients in humiliating or undignified situations.
+
+Use consistent photography styles, natural lighting, realistic expressions, and clean backgrounds.
+
+Where external image services are used, implement reliable image loading, descriptive alt text, and graceful fallbacks. Do not assume external photographs are licensed for unrestricted commercial use.
+
+==================================================
+3. WEBSITE PAGES AND NAVIGATION
+===============================
+
+Create the following six main pages:
+
+1. Home
+2. What We Do
+3. Request a Caregiver
+4. Our Impact
+5. Become a Caregiver
+6. Contact Us
+
+Use "Our Impact" instead of "Our Portfolio" because it sounds more professional for a healthcare and care-service organisation.
+
+The Our Impact page should display the company's activities, care services in action, team photographs, community engagements, training activities, and approved client success stories.
+
+Create a responsive navigation bar with:
+
+* Business logo on the left.
+* Navigation links.
+* A prominent "Request a Caregiver" button.
+* A mobile hamburger menu.
+* Smooth hover effects.
+* A sticky header that remains accessible while scrolling.
+
+On mobile devices, keep the logo visible and ensure that the navigation does not occupy excessive screen space.
+
+==================================================
+4. HOME PAGE
+============
+
+The home page must create a powerful first impression.
+
+A. HERO SECTION
+
+Build a large, premium hero section that occupies most of the first screen.
+
+Use a sophisticated split layout or a full-width image background with a dark teal overlay.
+
+Hero headline:
+
+"Compassionate Care.
+Professional Support.
+Peace of Mind."
+
+Supporting text:
+
+"At AFNAAN Nurses & Caregiver, we believe everyone deserves compassionate, respectful, and dependable care. We connect individuals and families with dedicated care professionals who put dignity, comfort, and wellbeing first."
+
+Primary CTA:
+"Request a Caregiver"
+
+Secondary CTA:
+"Become a Caregiver"
+
+The first CTA must lead to the Request a Caregiver page.
+
+The second CTA must lead to the Become a Caregiver page.
+
+Include a short trust statement such as:
+
+"Care that puts people first."
+
+HERO ANIMATION REQUIREMENTS:
+
+Create a lively and elegant animated hero background.
+
+Use circular moving image animations featuring professional Black African nurses and caregivers.
+
+The animation should include:
+
+* Large circular photographs positioned around the hero.
+* One main circular image of a professional Black nurse or caregiver.
+* Smaller circular images orbiting or moving slowly around the main image.
+* Subtle floating movement.
+* Smooth rotation or orbit animations.
+* Soft glowing borders and gentle shadows.
+* A faint circular ring or orbital line.
+* Small decorative dots moving slowly in the background.
+
+The animation should communicate connection, compassion, teamwork, and care.
+
+Keep the headline stable and readable.
+
+Do not allow animated images to cover text or CTA buttons.
+
+Use CSS animations where practical. Respect the user's reduced-motion accessibility preference.
+
+On mobile screens, simplify the animation so it remains attractive without causing slow loading or layout problems.
+
+B. TRUST HIGHLIGHTS
+
+Immediately below the hero section, display a horizontal trust strip with items such as:
+
+* Compassionate Care
+* Professional Care Team
+* Personalised Support
+* Family-Focused Service
+
+Use elegant icons and short labels.
+
+Do not claim specific professional certifications or regulatory approvals unless verified.
+
+C. INTRODUCTION SECTION
+
+Heading:
+"Care That Feels Personal"
+
+Text:
+
+"Every person has unique needs, preferences, and routines. AFNAAN Nurses & Caregiver is committed to providing thoughtful care and support that respects individual dignity, promotes comfort, and helps families feel more confident about their loved ones' wellbeing."
+
+Include a large photograph of a Black caregiver assisting an elderly client in a comfortable home.
+
+Add a "Discover What We Do" button.
+
+D. FEATURED SERVICES
+
+Create visually attractive service cards for:
+
+1. Home Care Assistance
+   Support with everyday activities and routines at home.
+
+2. Elderly Care
+   Respectful assistance that supports comfort, dignity, independence, and wellbeing.
+
+3. Personal Care Assistance
+   Help with suitable daily living activities according to each client's needs and agreed care plan.
+
+4. Nursing Support
+   Nursing services delivered by appropriately qualified nursing professionals within their competence and applicable professional regulations.
+
+5. Recovery and Respite Support
+   Support for individuals recovering at home and families who need temporary assistance.
+
+6. Family Care Support
+   Practical assistance and communication to help families coordinate appropriate care.
+
+Each card should contain a relevant photograph or tasteful icon, a concise description, and a "Learn More" link.
+
+Only advertise services the business actually provides. Make service details editable from the admin dashboard.
+
+E. HOW IT WORKS
+
+Display a four-step process:
+
+Step 1: Tell Us Your Needs.
+Families explain the type of support they require.
+
+Step 2: Discuss Your Requirements.
+Our team reviews the request and clarifies relevant details.
+
+Step 3: Find Suitable Support.
+We discuss an appropriate care arrangement based on availability, qualifications, and the client's needs.
+
+Step 4: Begin Your Care Journey.
+Care arrangements commence after the necessary discussions and agreements.
+
+Include a CTA:
+"Let's Discuss Your Care Needs"
+
+F. WHY CHOOSE AFNAAN?
+
+Create a section with a premium background and a photograph of a Black African nurse speaking with a family.
+
+Include:
+
+* Compassionate and respectful service.
+* Individualised care planning.
+* Clear communication with families.
+* A focus on dignity and privacy.
+* Caregiver suitability and qualification checks appropriate to the role.
+* Flexible arrangements subject to availability.
+* A commitment to continuous improvement.
+
+Avoid guaranteeing medical outcomes or claiming that every caregiver holds nursing qualifications.
+
+G. CEO INTRODUCTION
+
+Create a premium founder section titled:
+
+"Leadership Rooted in Care"
+
+CEO name:
+IMRAN MUTOLIB ADEIZA
+
+Use a professional portrait of the CEO when an authentic image is supplied.
+
+Do not invent his photograph or create unsupported personal history.
+
+If the portrait is not yet available, use an elegant temporary portrait placeholder and allow the administrator to upload the authentic image.
+
+Suggested biography:
+
+"IMRAN MUTOLIB ADEIZA leads AFNAAN Nurses & Caregiver with a focus on compassionate service, professionalism, and the importance of treating every individual with dignity and respect.
+
+His vision for AFNAAN is to build a care service that listens to families, values dedicated care professionals, and places people's wellbeing at the centre of every care arrangement.
+
+Through AFNAAN, he aims to encourage a culture of empathy, responsibility, trust, and continuous improvement in caregiving."
+
+This biography is proposed website copy. Allow the administrator to edit it before publication.
+
+Add a button:
+"Meet Our Team"
+
+Link it to the Our Impact page.
+
+H. OUR IMPACT PREVIEW
+
+Display a photo gallery with:
+
+* Caregiving activities.
+* Team photographs.
+* Training sessions.
+* Community engagement.
+* Professional care environments.
+* Approved testimonials or client stories.
+
+Every image and video must be manageable through the admin dashboard.
+
+Only publish authentic, authorised images and testimonials.
+
+Add a button:
+"Explore Our Impact"
+
+I. TESTIMONIALS
+
+Create a testimonial carousel featuring client or family feedback.
+
+Do not invent testimonials and present them as genuine.
+
+If verified testimonials have not been provided, use an editable section that remains unpublished until authentic testimonials are added.
+
+J. FINAL CALL TO ACTION
+
+Heading:
+"Your Loved Ones Deserve Thoughtful Care"
+
+Text:
+"Tell us how we can support you or someone you love. Our team is ready to discuss your care needs."
+
+Buttons:
+
+* Request a Caregiver
+* Chat With Us on WhatsApp
+
+==================================================
+5. WHAT WE DO PAGE
+==================
+
+Create a detailed service page with an elegant hero image of Black African healthcare professionals.
+
+Page heading:
+"Care Services Designed Around People"
+
+Introduction:
+
+"AFNAAN Nurses & Caregiver provides care and support services designed around individual needs, personal preferences, and family circumstances. We aim to make finding suitable care clearer, more reassuring, and more personal."
+
+Create detailed service sections for:
+
+1. Home Care Assistance
+2. Elderly Care
+3. Personal Care Assistance
+4. Nursing Support
+5. Recovery Support
+6. Respite Care
+7. Family Care Support
+8. Caregiver Placement and Matching, where offered.
+
+Each service section should include:
+
+* Service description.
+* Who may benefit.
+* Examples of support provided.
+* Relevant photographs of Black caregivers and clients.
+* A "Request This Service" button.
+* Frequently asked questions where appropriate.
+
+Make the service list editable from the admin dashboard.
+
+Clearly distinguish nursing services from non-clinical caregiving. Clinical services must be provided only by appropriately qualified and authorised professionals.
+
+Do not claim that AFNAAN offers a particular service unless the administrator has confirmed it.
+
+Add a final CTA directing visitors to the Request a Caregiver page.
+
+==================================================
+6. REQUEST A CAREGIVER PAGE
+===========================
+
+This page is a major conversion page. Make it professional, reassuring, easy to use, and mobile-friendly.
+
+Hero heading:
+"Find the Right Care Support for Your Needs"
+
+Supporting text:
+"Tell us a little about the support you need. Our team will review your request and contact you to discuss the next steps."
+
+Create a multi-section request form.
+
+FORM FIELDS:
+
+A. Contact Information
+
+* Full name.
+* Phone number.
+* Email address.
+* Preferred contact method.
+
+B. Care Requirements
+
+* Type of care required.
+* Home care.
+* Elderly care.
+* Personal care assistance.
+* Nursing support.
+* Recovery support.
+* Respite care.
+* Other.
+
+C. Client Information
+
+* Is the care for yourself or another person?
+* General age group.
+* Preferred caregiver gender, if applicable.
+* Preferred language, if applicable.
+
+D. Location and Schedule
+
+* State.
+* City or local government area.
+* Preferred start date.
+* Required duration.
+* Preferred days.
+* Preferred time.
+* Live-in or visiting support, if offered.
+
+E. Additional Information
+
+* Brief description of the assistance required.
+* Other preferences.
+* Preferred way to be contacted.
+
+Add an optional attachment field only if secure file storage and appropriate access controls are implemented.
+
+Do not request unnecessary medical records, sensitive diagnoses, or other excessive personal information.
+
+Add a required consent checkbox:
+
+"I consent to AFNAAN Nurses & Caregiver using the information I provide to respond to my enquiry and discuss the care services requested. I have read the Privacy Policy."
+
+SUBMIT BUTTON:
+"Submit Care Request"
+
+FUNCTIONAL REQUIREMENTS:
+
+* Validate all required fields.
+* Validate email and phone formats appropriately.
+* Show clear error messages.
+* Show a loading indicator while submitting.
+* Prevent duplicate submissions.
+* Display a success message after the request is successfully saved.
+* Display a clear error message if submission fails.
+* Save requests securely to the database.
+* Notify the administrator of new requests when email notifications are configured.
+* Send an acknowledgement to the requester only when a working email delivery service is configured.
+* Display a unique reference number after successful submission.
+* Provide the administrator with a dashboard for reviewing and managing requests.
+
+After successful submission, display:
+
+"Thank you for contacting AFNAAN Nurses & Caregiver. Your request has been received. Our team will review your enquiry and contact you to discuss the next steps."
+
+Do not falsely display success if the request has not been saved.
+
+==================================================
+7. OUR IMPACT PAGE
+==================
+
+Use the page title:
+"Our Impact"
+
+Subtitle:
+"Stories, People, and Moments That Reflect Our Commitment to Care"
+
+This page replaces the traditional portfolio page with a more suitable healthcare presentation.
+
+Create a visually rich gallery featuring:
+
+* Care services in action.
+* Professional caregiver activities.
+* Nursing support activities.
+* Team events.
+* Training and development.
+* Community outreach.
+* Company announcements.
+* Approved client success stories.
+* Short videos introducing the company.
+* Educational videos about caregiving.
+
+GALLERY FEATURES:
+
+* Responsive masonry or grid layout.
+* Category filters.
+* Image lightbox.
+* Video playback.
+* Captions and descriptions.
+* Dates and optional locations.
+* Pagination or load-more functionality.
+* Accessible image descriptions.
+* Loading indicators.
+* Empty states.
+* Mobile-friendly media viewing.
+
+Suggested categories:
+
+* Care in Action.
+* Our Team.
+* Training and Development.
+* Community Engagement.
+* Company News.
+* Client Stories.
+
+ADMINISTRATOR CONTROLS:
+
+The administrator must be able to:
+
+* Upload images.
+* Upload videos.
+* Add media titles.
+* Write captions and descriptions.
+* Choose categories.
+* Edit existing gallery entries.
+* Replace images and videos.
+* Reorder gallery items.
+* Publish or unpublish items.
+* Delete items after a confirmation step.
+* Preview content before publishing.
+
+Use secure file validation, size limits, authorised uploads, and appropriate storage permissions.
+
+Do not rely on browser local storage as the permanent media database.
+
+Use a persistent storage service for uploaded media.
+
+Client photographs, videos, and testimonials must not be published without appropriate authorisation and consent.
+
+==================================================
+8. BECOME A CAREGIVER PAGE
+==========================
+
+Page heading:
+"Build a Meaningful Career in Care"
+
+Supporting text:
+
+"Do you have a passion for helping others? AFNAAN Nurses & Caregiver welcomes enquiries from responsible, compassionate individuals interested in caregiving opportunities."
+
+Include a professional photograph of a Black African nurse and caregiver team.
+
+Explain the qualities AFNAAN values:
+
+* Compassion and empathy.
+* Respect for human dignity.
+* Reliability and punctuality.
+* Good communication.
+* Professional conduct.
+* Willingness to learn.
+* Respect for confidentiality.
+* Relevant qualifications and experience where required.
+
+Explain that applications are subject to role requirements, verification, suitability checks, and available opportunities.
+
+APPLICATION FORM:
+
+* Full name.
+* Phone number.
+* Email address.
+* Current location.
+* Preferred role.
+* Relevant experience.
+* Relevant qualifications.
+* Availability.
+* Preferred employment arrangement, if applicable.
+* Short personal statement.
+* CV upload.
+* Relevant certificate upload, if necessary.
+* Consent to the processing of application information.
+
+Include the following role options:
+
+* Caregiver.
+* Registered Nurse.
+* Nursing Assistant, where applicable.
+* Home Care Assistant.
+* Other relevant role.
+
+Do not imply that applicants are registered nurses without verified qualifications.
+
+Submit button:
+"Submit My Application"
+
+FUNCTIONAL REQUIREMENTS:
+
+* Validate form inputs.
+* Securely upload CVs and supporting documents.
+* Save applications in a protected database.
+* Generate an application reference number.
+* Notify administrators of new applications when notifications are configured.
+* Display a confirmation message.
+* Allow administrators to review applications.
+* Allow authorised administrators to update application status.
+
+Possible application statuses:
+
+* New.
+* Under Review.
+* Shortlisted.
+* Interview.
+* Accepted.
+* Not Selected.
+
+Applicants must not have public access to other candidates' records.
+
+==================================================
+9. CONTACT US PAGE
+==================
+
+Create an attractive contact page with a welcoming introduction and clear contact options.
+
+Heading:
+"Let's Talk About How We Can Help"
+
+Supporting text:
+"Have questions about our services, need assistance finding a caregiver, or want to learn more about AFNAAN? Get in touch with our team."
+
+DISPLAY THE FOLLOWING CONTACT DETAILS:
+
+Business:
+AFNAAN Nurses & Caregiver
+
+Address:
+No 7 Old Ota Road, Orile Bus Stop, Orile Agege, Lagos, Nigeria.
+
+Email:
+[abooafnaan28@gmail.com](mailto:abooafnaan28@gmail.com)
+
+WhatsApp:
+[https://wa.me/09162285884](https://wa.me/09162285884)
+
+Create clickable contact buttons.
+
+WHATSAPP BUTTON:
+When clicked, open the supplied WhatsApp link.
+
+EMAIL BUTTON:
+When clicked, open the visitor's default email application using a mailto link.
+
+Use:
+mailto:abooafnaan28@gmail.com
+
+Include an optional prefilled subject:
+"Enquiry About AFNAAN Nurses & Caregiver"
+
+Do not invent business telephone numbers or social media accounts.
+
+CONTACT FORM:
+
+* Full name.
+* Email address.
+* Phone number, optional.
+* Subject.
+* Message.
+* Consent checkbox.
+
+Submit button:
+"Send Message"
+
+The contact form must save messages to the database and display an accurate submission status.
+
+Provide clear validation, error handling, and success messages.
+
+MAP:
+
+Include an optional map section showing the business location.
+
+Only use a precise map pin if the correct coordinates have been verified. Otherwise, provide the address and an external map-search link.
+
+==================================================
+10. FLOATING WHATSAPP AND EMAIL BUTTONS
+=======================================
+
+Add two attractive floating contact buttons on the bottom-right side of the website.
+
+WHATSAPP:
+[https://wa.me/09162285884](https://wa.me/09162285884)
+
+EMAIL:
+mailto:abooafnaan28@gmail.com
+
+Requirements:
+
+* WhatsApp icon in a recognisable green style.
+* Email icon in a clean professional style.
+* Accessible tooltips.
+* Smooth hover effects.
+* Clear spacing between buttons.
+* Mobile-friendly sizing.
+* High contrast.
+* Keyboard accessibility.
+
+When the WhatsApp icon is clicked, open the supplied WhatsApp link in a new tab.
+
+When the email icon is clicked, open the visitor's default email application.
+
+Keep the icons visible without covering important content, form controls, or mobile navigation.
+
+IMPORTANT:
+Use the supplied contact links exactly as provided. Validate that the WhatsApp number is in a format accepted by WhatsApp before launch. If the supplied link is invalid, flag it for correction instead of silently changing the number.
+
+==================================================
+11. SECURE ADMIN DASHBOARD
+==========================
+
+Build a separate, protected administrative dashboard.
+
+Suggested route:
+/admin/login
+
+Suggested dashboard route:
+/admin/dashboard
+
+The dashboard must not be accessible to unauthenticated visitors.
+
+Do not create a public registration page for administrators.
+
+Only authorised administrators should be able to manage the website.
+
+ADMIN LOGIN:
+
+Fields:
+
+* Email address.
+* Password.
+
+Include:
+
+* Show/hide password control.
+* Form validation.
+* Loading state.
+* Login error messages.
+* Logout button.
+* Session expiration handling.
+* Password reset through a secure, verified process if configured.
+
+SECURITY REQUIREMENTS:
+
+Do not hardcode a production administrator password in the frontend, source code, public repository, or client-side environment variables.
+
+Do not create a shared, publicly visible username and password.
+
+Use a proper authentication system and secure password hashing through the selected authentication provider.
+
+The first administrator must be created through a secure setup process, such as a server-side seed script, protected deployment procedure, or authentication-provider invitation.
+
+If initial credentials are needed during development, use environment variables and replace development credentials before deployment.
+
+Never display the administrator password in the dashboard or return it from an API.
+
+Protect administrative endpoints using server-side authentication and role checks.
+
+Implement rate limiting or other appropriate protection against repeated login attempts.
+
+Validate permissions on the server, not only by hiding buttons in the frontend.
+
+Ensure users cannot access private application records, client enquiries, CVs, or uploaded documents without authorisation.
+
+==================================================
+12. ADMIN DASHBOARD FEATURES
+============================
+
+Design the dashboard as a clean, modern administrative workspace.
+
+Use a sidebar on desktop and a collapsible menu on mobile.
+
+DASHBOARD OVERVIEW:
+
+Display useful summary cards:
+
+* Total Care Requests.
+* New Care Requests.
+* Pending Applications.
+* Total Published Gallery Items.
+* Unread Messages.
+* Recent Administrative Activity.
+
+Use actual database values, not hardcoded statistics.
+
+A. WEBSITE CONTENT MANAGEMENT
+
+Allow authorised administrators to:
+
+* Edit the home page headline.
+* Update descriptions and website copy.
+* Manage services.
+* Change the CEO biography.
+* Upload or replace the CEO photograph.
+* Update contact information.
+* Edit calls to action.
+* Manage testimonials.
+* Publish and unpublish sections.
+* Update selected SEO fields.
+
+B. MEDIA MANAGEMENT
+
+Allow administrators to:
+
+* Upload images and videos.
+* Edit media titles and captions.
+* Change categories.
+* Preview media.
+* Reorder gallery items.
+* Publish or unpublish media.
+* Replace existing media.
+* Delete media with confirmation.
+* View upload progress.
+
+C. CARE REQUEST MANAGEMENT
+
+Display submitted requests in a searchable table.
+
+Include:
+
+* Reference number.
+* Request date.
+* Client contact name.
+* Contact details.
+* Requested service.
+* General location.
+* Preferred start date.
+* Status.
+* Assigned staff member, if applicable.
+
+Statuses:
+
+* New.
+* Contacted.
+* Assessment.
+* In Progress.
+* Completed.
+* Cancelled.
+
+Allow administrators to:
+
+* Open request details.
+* Update request status.
+* Add private internal notes.
+* Search and filter requests.
+* Export permitted records when appropriate.
+* Archive completed requests according to the data-retention policy.
+
+Do not expose internal notes to public users.
+
+D. CAREGIVER APPLICATION MANAGEMENT
+
+Display applications in a protected table.
+
+Include:
+
+* Application reference.
+* Applicant name.
+* Contact details.
+* Role applied for.
+* Submission date.
+* Qualifications and experience.
+* Application status.
+
+Allow administrators to:
+
+* View applications.
+* Review uploaded documents securely.
+* Update application status.
+* Add internal notes.
+* Search and filter applicants.
+* Archive applications according to the retention policy.
+
+Only authorised staff may access CVs and supporting documents.
+
+E. CONTACT MESSAGE MANAGEMENT
+
+Allow administrators to:
+
+* View incoming messages.
+* Mark messages as read or unread.
+* Search messages.
+* Filter by date.
+* Add private notes.
+* Archive or delete messages where appropriate.
+
+F. WEBSITE SETTINGS
+
+Allow administrators to edit:
+
+* Business name.
+* Logo.
+* Contact email.
+* WhatsApp link.
+* Business address.
+* CEO profile.
+* Footer content.
+* Privacy Policy.
+* Terms of Service.
+* SEO title and description.
+
+G. ADMINISTRATIVE AUDIT LOG
+
+Record important administrative actions, including:
+
+* Login events.
+* Content publication.
+* Media uploads.
+* Changes to request status.
+* Application status changes.
+* Deletion of content.
+
+Do not record passwords or unnecessary sensitive information in logs.
+
+==================================================
+13. DATABASE AND BACKEND
+========================
+
+Build the website using a maintainable architecture suitable for deployment on Vercel.
+
+Preferred frontend:
+
+* React.
+* TypeScript.
+* Tailwind CSS.
+* A reusable component system.
+* Accessible UI components.
+* Lucide icons or another consistent icon library.
+
+Use the existing project's framework if it already has a suitable structure. Do not unnecessarily replace a functioning framework.
+
+BACKEND REQUIREMENTS:
+
+The website must use a real backend and persistent database for:
+
+* Care requests.
+* Caregiver applications.
+* Contact messages.
+* Website content.
+* Services.
+* Portfolio or impact gallery entries.
+* Administrative settings.
+* Administrative audit logs.
+
+Do not simulate a working backend using localStorage.
+
+Do not put secret keys in frontend code.
+
+Use server-side validation, secure authentication, appropriate authorisation, and database access controls.
+
+If the project does not already have a backend, choose a compatible solution, such as a server-side application with PostgreSQL or another suitable managed database.
+
+Because the website is intended for Vercel, ensure that all server-side functions and database connections are compatible with the deployment environment.
+
+For uploaded images and videos, use persistent object storage rather than relying on temporary serverless filesystem storage.
+
+Use signed upload URLs or a secure upload endpoint where appropriate.
+
+For the database, create well-structured tables or collections for:
+
+1. Admin Users.
+2. Care Requests.
+3. Caregiver Applications.
+4. Contact Messages.
+5. Services.
+6. Gallery Items.
+7. Testimonials.
+8. Website Settings.
+9. Audit Logs.
+
+Include:
+
+* Unique identifiers.
+* Created and updated timestamps.
+* Appropriate indexes.
+* Data validation.
+* Defined relationships where necessary.
+* Sensible retention rules.
+
+Protect private records with role-based access controls.
+
+==================================================
+14. EMAIL NOTIFICATIONS
+=======================
+
+Implement email notifications through a suitable email delivery provider if one is configured.
+
+Send administrator notifications when:
+
+* A new care request is received.
+* A new caregiver application is submitted.
+* A new contact message arrives.
+
+Use the official business email as the intended contact identity:
+
+[abooafnaan28@gmail.com](mailto:abooafnaan28@gmail.com)
+
+However, do not assume this Gmail address can send authenticated messages from an unrelated domain.
+
+Configure email sending through a verified sender identity and a suitable provider.
+
+If outgoing email has not been configured, show the submission confirmation on the website and clearly document the remaining setup requirements.
+
+Do not report that an email has been sent unless the email provider confirms successful acceptance of the message.
+
+==================================================
+15. PRIVACY, SECURITY, AND TRUST
+================================
+
+Create the following pages:
+
+* Privacy Policy.
+* Terms of Service.
+* Accessibility Statement.
+
+Add links to these pages in the website footer.
+
+The Privacy Policy must explain what information is collected, why it is collected, how it is stored, who may access it, and how users can contact the business about their information.
+
+Because this website may collect information related to care needs, treat personal information and uploaded documents carefully.
+
+Collect only information necessary for the requested service.
+
+Implement:
+
+* HTTPS-compatible deployment.
+* Secure session handling.
+* Server-side validation.
+* Protection against common web vulnerabilities.
+* Appropriate access controls.
+* Rate limiting where necessary.
+* Secure file upload validation.
+* Safe handling of errors.
+* CSRF protection where applicable.
+* Secure password reset procedures.
+* Appropriate database backups.
+* Data deletion and retention procedures.
+
+Do not expose sensitive details in URLs, browser logs, analytics events, or public database responses.
+
+Do not publish private client details in the impact gallery.
+
+Do not present the website as a substitute for emergency medical services.
+
+Include a concise disclaimer that emergency medical situations require immediate contact with appropriate emergency services.
+
+==================================================
+16. SEO AND LOCAL SEARCH
+========================
+
+Optimise the website for relevant search terms, including:
+
+* Nurses and caregivers in Lagos.
+* Home care services in Lagos.
+* Elderly care in Lagos.
+* Caregiver services in Lagos.
+* Home nursing support in Lagos.
+* Request a caregiver in Lagos.
+* AFNAAN Nurses & Caregiver.
+* Caregiver opportunities in Lagos.
+
+Use natural wording rather than keyword stuffing.
+
+Implement:
+
+* Unique page titles.
+* Meta descriptions.
+* Semantic headings.
+* Descriptive image alt text.
+* Open Graph metadata.
+* Canonical URLs.
+* XML sitemap.
+* Robots.txt.
+* A custom 404 page.
+* Appropriate structured data where justified.
+
+Use the business name and address consistently.
+
+Do not fabricate reviews, business hours, medical certifications, professional registrations, or other trust signals.
+
+==================================================
+17. ANIMATIONS AND INTERACTIONS
+===============================
+
+Make the website lively without sacrificing professionalism.
+
+Implement:
+
+* Smooth page transitions where supported.
+* Fade-in animations.
+* Scroll-triggered section reveals.
+* Floating image animations.
+* Circular orbit animations in the hero.
+* Subtle button hover effects.
+* Animated service cards.
+* Gallery hover effects.
+* Smooth accordion transitions.
+* Testimonial carousel controls.
+* Form submission progress indicators.
+* Toast notifications.
+* Skeleton loading states where appropriate.
+
+Avoid:
+
+* Excessive bouncing.
+* Flashing effects.
+* Distracting animations.
+* Unnecessary loading screens.
+* Animations that make text difficult to read.
+* Animations that interfere with accessibility.
+
+Respect the operating system's reduced-motion setting.
+
+==================================================
+18. FOOTER DESIGN
+=================
+
+Create a professional multi-column footer.
+
+Column 1: Business Identity
+
+* Prominent AFNAAN logo.
+* Short business description.
+
+Column 2: Quick Links
+
+* Home.
+* What We Do.
+* Request a Caregiver.
+* Our Impact.
+* Become a Caregiver.
+* Contact Us.
+
+Column 3: Contact Information
+
+* No 7 Old Ota Road, Orile Bus Stop, Orile Agege, Lagos.
+* [abooafnaan28@gmail.com](mailto:abooafnaan28@gmail.com).
+* WhatsApp contact button.
+
+Column 4: Policies
+
+* Privacy Policy.
+* Terms of Service.
+* Accessibility Statement.
+
+Add a newsletter subscription section only if the subscription system is implemented securely and the business intends to send newsletters.
+
+Include a copyright line using the current year.
+
+Display social media icons only for accounts that have been supplied and verified.
+
+==================================================
+19. RESPONSIVE DESIGN REQUIREMENTS
+==================================
+
+Desktop:
+
+* Spacious layouts.
+* Prominent hero section.
+* Balanced text and photography.
+* Well-arranged service cards.
+* Smooth circular image animation.
+
+Tablet:
+
+* Adjusted grids.
+* Responsive typography.
+* Simplified animation.
+* Comfortable touch targets.
+
+Mobile:
+
+* Mobile-first layout.
+* Responsive logo.
+* Collapsible navigation.
+* Stacked forms.
+* Full-width primary buttons where suitable.
+* Readable text.
+* Optimised photographs.
+* Simplified hero animation.
+* Floating contact buttons that do not obstruct important controls.
+
+Test the site at common screen widths.
+
+Prevent horizontal scrolling and content overflow.
+
+==================================================
+20. DEVELOPMENT AND IMPLEMENTATION RULES
+========================================
+
+Do not stop after generating the home page.
+
+Implement all six main pages, the supporting legal pages, all working navigation, and the protected admin dashboard.
+
+Do not leave essential functionality as a non-working button.
+
+Do not create fake login functionality.
+
+Do not hardcode administrator credentials into public code.
+
+Do not pretend forms are connected to a database when they are not.
+
+Do not use localStorage as a substitute for a secure backend.
+
+Do not replace the supplied logo with an unrelated logo.
+
+Do not fabricate the CEO's photograph, testimonials, certifications, company statistics, or business history.
+
+Where an external dependency, email provider, database, authentication provider, or storage service requires configuration, provide clear setup instructions.
+
+Create a clean project structure with reusable components and maintainable code.
+
+Provide an environment variable example file containing placeholder values only. Never put actual secrets into the repository.
+
+Create database migrations or schema definitions where applicable.
+
+Include a README with installation, configuration, development, deployment, database setup, and administrator onboarding instructions.
+
+Ensure the project builds successfully.
+
+==================================================
+21. FINAL TESTING CHECKLIST
+===========================
+
+Before considering the website complete, verify the following:
+
+1. The logo loads correctly.
+2. All six main pages work.
+3. Navigation works on desktop and mobile.
+4. The hero circular animation works.
+5. Black African nurses and caregivers feature throughout the design.
+6. The WhatsApp button opens the supplied link.
+7. The email button opens the correct email application.
+8. The care request form validates and saves submissions.
+9. The caregiver application form validates and saves submissions.
+10. CV uploads are secure and private.
+11. The contact form saves messages.
+12. The admin login uses real authentication.
+13. Unauthenticated users cannot access the dashboard.
+14. The admin can edit website content.
+15. The admin can upload images and videos.
+16. Gallery items persist after refreshing the website.
+17. The admin can manage care requests and applications.
+18. Errors are handled clearly.
+19. No passwords or secret keys are exposed in the frontend.
+20. The site works at mobile, tablet, and desktop sizes.
+21. The website builds successfully for its intended deployment environment.
+22. Database and storage configuration requirements are documented.
+23. The website does not display fabricated testimonials or statistics.
+24. Privacy and legal pages are available.
+25. The final website feels premium, compassionate, professional, and trustworthy.
+
+FINAL OBJECTIVE:
+
+Deliver a complete, production-oriented AFNAAN Nurses & Caregiver website with a memorable animated hero section, beautiful African healthcare photography, professional service pages, working enquiry and recruitment forms, an editable impact gallery, and a secure administrative dashboard.
+
+Prioritise trust, accessibility, mobile responsiveness, security, maintainability, and a polished user experience.
+
+Start by examining the existing project structure if one exists. Preserve useful working components, then implement the website systematically and verify the functionality of every page and major interaction.
+
+---
+
+## Important things to prepare before launching
+
+The prompt covers the full website, but there are a few things you should prepare so the finished site can work properly.
+
+**1. The CEO's photograph**
+
+You mentioned that you have an image of IMRAN MUTOLIB ADEIZA, but the image link wasn't included in your message. Add his photograph in Google AI Studio or provide its direct image URL so the developer can use his actual picture.
+
+**2. The WhatsApp number**
+
+You supplied `https://wa.me/09162285884`. WhatsApp links generally require the phone number in international format, without the leading `+` or the local trunk prefix. For a Nigerian number, confirm the correct international number before publishing the link.
+
+**3. The admin dashboard**
+
+The website will need a database, authentication, and image/video storage. Google AI Studio can help generate the code, but these services must be configured for the dashboard to work. **Do not use a publicly hardcoded admin password.** Create the first administrator through a secure setup process.
+
+**4. Your existing hosting setup**
+
+Since you have been using Vercel for your websites, the new website can be built for Vercel deployment. However, you will need a compatible backend and persistent storage for the forms and portfolio uploads.
+
+### My recommendation
+
+Build the public-facing website first, then connect the database, forms, authentication, and admin dashboard. This makes troubleshooting easier and reduces the risk of generating a beautiful website with buttons that do nothing.
